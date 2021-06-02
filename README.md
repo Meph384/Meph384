@@ -5,6 +5,7 @@
 - ⚛️ I’m currently learning React 
 - 💼 I’m looking for an intern or stright up job as a front-dev
 - ⚡ Fun fact: When i was 2 years old i've cracked my parents password to PC by remembering key inputs, than i've changed password to something random and locked out my family from PC for few days (i wasn't able to read) 😁
+- 🌐 <a href="strefakobiet.org.pl">StrefaKobiet</a> is my first commercial website created for client in less than a week with eCommerce and ticketing functionalites
 
 ### Connect with me:
 
